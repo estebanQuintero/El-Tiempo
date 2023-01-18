@@ -1,1 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Yo como usuario quiero realizar una busqueda con los filtros que yo requiero para realizar la compra" skipped="0" tests="1" time="28.92" timestamp="2022-04-22 04:50:14"><testcase name="validacion de los filtros de busqueda del portal metrocuadrado"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Yo como usuario quiero realizar una busqueda con los filtros que yo requiero para realizar la compra" skipped="0" tests="1" time="4.85" timestamp="2023-01-18 10:37:29"><testcase name="validacion de los filtros de busqueda del portal metrocuadrado"><error message="Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 100&#10;Current browser version is 109.0.5414.75 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-4LH2CPD', ip: '172.18.16.78', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_311'&#10;Driver info: driver.version: ProvideNewDriver&#10;remote stacktrace: Backtrace:&#10;&#9;Ordinal0 [0x00E47413+2389011]&#10;&#9;Ordinal0 [0x00DD9F61+1941345]&#10;&#9;Ordinal0 [0x00CCC658+837208]&#10;&#9;Ordinal0 [0x00CEC773+968563]&#10;&#9;Ordinal0 [0x00CE837A+951162]&#10;&#9;Ordinal0 [0x00CE5C51+941137]&#10;&#9;Ordinal0 [0x00D18C80+1150080]&#10;&#9;Ordinal0 [0x00D188DA+1149146]&#10;&#9;Ordinal0 [0x00D13F66+1130342]&#10;&#9;Ordinal0 [0x00CEE546+976198]&#10;&#9;Ordinal0 [0x00CEF456+980054]&#10;&#9;GetHandleVerifier [0x00FF9632+1727522]&#10;&#9;GetHandleVerifier [0x010ABA4D+2457661]&#10;&#9;GetHandleVerifier [0x00EDEB81+569713]&#10;&#9;GetHandleVerifier [0x00EDDD76+566118]&#10;&#9;Ordinal0 [0x00DE0B2B+1968939]&#10;&#9;Ordinal0 [0x00DE5988+1989000]&#10;&#9;Ordinal0 [0x00DE5A75+1989237]&#10;&#9;Ordinal0 [0x00DEECB1+2026673]&#10;&#9;BaseThreadInitThunk [0x76D56BD9+25]&#10;&#9;RtlGetFullPathName_UEx [0x77B88FD2+1218]&#10;&#9;RtlGetFullPathName_UEx [0x77B88F9D+1165]&#10;). See below for more details." type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 100
+Current browser version is 109.0.5414.75 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4LH2CPD', ip: '172.18.16.78', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: driver.version: ProvideNewDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00E47413+2389011]
+	Ordinal0 [0x00DD9F61+1941345]
+	Ordinal0 [0x00CCC658+837208]
+	Ordinal0 [0x00CEC773+968563]
+	Ordinal0 [0x00CE837A+951162]
+	Ordinal0 [0x00CE5C51+941137]
+	Ordinal0 [0x00D18C80+1150080]
+	Ordinal0 [0x00D188DA+1149146]
+	Ordinal0 [0x00D13F66+1130342]
+	Ordinal0 [0x00CEE546+976198]
+	Ordinal0 [0x00CEF456+980054]
+	GetHandleVerifier [0x00FF9632+1727522]
+	GetHandleVerifier [0x010ABA4D+2457661]
+	GetHandleVerifier [0x00EDEB81+569713]
+	GetHandleVerifier [0x00EDDD76+566118]
+	Ordinal0 [0x00DE0B2B+1968939]
+	Ordinal0 [0x00DE5988+1989000]
+	Ordinal0 [0x00DE5A75+1989237]
+	Ordinal0 [0x00DEECB1+2026673]
+	BaseThreadInitThunk [0x76D56BD9+25]
+	RtlGetFullPathName_UEx [0x77B88FD2+1218]
+	RtlGetFullPathName_UEx [0x77B88F9D+1165]
+). See below for more details.</error><system-err>Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 100
+Current browser version is 109.0.5414.75 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4LH2CPD', ip: '172.18.16.78', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: driver.version: ProvideNewDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00E47413+2389011]
+	Ordinal0 [0x00DD9F61+1941345]
+	Ordinal0 [0x00CCC658+837208]
+	Ordinal0 [0x00CEC773+968563]
+	Ordinal0 [0x00CE837A+951162]
+	Ordinal0 [0x00CE5C51+941137]
+	Ordinal0 [0x00D18C80+1150080]
+	Ordinal0 [0x00D188DA+1149146]
+	Ordinal0 [0x00D13F66+1130342]
+	Ordinal0 [0x00CEE546+976198]
+	Ordinal0 [0x00CEF456+980054]
+	GetHandleVerifier [0x00FF9632+1727522]
+	GetHandleVerifier [0x010ABA4D+2457661]
+	GetHandleVerifier [0x00EDEB81+569713]
+	GetHandleVerifier [0x00EDDD76+566118]
+	Ordinal0 [0x00DE0B2B+1968939]
+	Ordinal0 [0x00DE5988+1989000]
+	Ordinal0 [0x00DE5A75+1989237]
+	Ordinal0 [0x00DEECB1+2026673]
+	BaseThreadInitThunk [0x76D56BD9+25]
+	RtlGetFullPathName_UEx [0x77B88FD2+1218]
+	RtlGetFullPathName_UEx [0x77B88F9D+1165]
+). See below for more details.&#13;
+co.com.eltiempo.certificacion.metro.stepdefinitions.FiltroBusquedaMetroStepDefinitions.ingrearAlPortarl(FiltroBusquedaMetroStepDefinitions.java:39)&#13;
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:64)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:104)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:73)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:235)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:54)&#13;
+</system-err></testcase></testsuite>
